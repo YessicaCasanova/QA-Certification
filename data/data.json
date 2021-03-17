@@ -1,0 +1,10 @@
+{
+    "USER" : { "VALID" : "standard_user" , "INVALID" : "locked_out_user", "PROBLEM" : "problem_user"   },
+    "PASSWORD" : "secret_sauce",
+    "MESSAGE" : {  "PRODUCTS" : "Products",  "CART" : "Your Cart",  "ERROR" : "Error", "OVERVIEW" : "Overview",  "FINISH" : "Finish"},
+    "COUNTITEMS" : {"SINGLE" : "1", "ALL" : "6" },
+    "FIRSTNAME" : "John",
+    "LASTNAME" : "Smith",
+    "ZIP" : "1234"  
+
+}

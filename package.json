@@ -1,0 +1,16 @@
+{
+  "name": "exercice",
+  "version": "1.0.0",
+  "description": "Ejercicio practico 1",
+  "main": "index.js",
+  "scripts": { 
+    "test": "testcafe all suites/testLogin.js suites/testActionsShopping.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.12.0"
+  }
+}
+
+ 
